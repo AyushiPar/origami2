@@ -1,7 +1,7 @@
 .menu{
     display:flex;
     justify-content:space-betweeen;
-    background-color: palegoldenrod;
+    background-color: rgb(243, 234, 138);
     font-size: 20px;
     font-family: 'Times New Roman';
     color: black;
@@ -14,11 +14,11 @@
 
 .origami{
     border-radius:20px;
-    background-color: cornsilk;
+    background-color: rgb(250, 249, 245);
     width:310px;
-    font-family: fantasy;
+    font-family:'Times New Roman', Times, serif;
 }
 
 body{
-    background-color: lemonchiffon;
+    background-color: rgb(253, 251, 228);
 }
