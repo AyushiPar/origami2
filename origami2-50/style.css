@@ -1,24 +1,43 @@
 .menu{
     display:flex;
     justify-content:space-betweeen;
-    background-color: rgb(243, 234, 138);
-    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+    font-size: 40px;
     font-family: 'Times New Roman';
-    color: black;
+    color: rgb(231, 91, 161);
+    justify-content: center;
+}
+
+a{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    color:rgb(187, 24, 160);
 }
 
 .grid{
     display:flex;
     flex-wrap:wrap;
+    justify-content:space-evenly;
 }
 
 .origami{
     border-radius:20px;
-    background-color: rgb(250, 249, 245);
+    background-color: rgb(252, 233, 246);
     width:310px;
     font-family:'Times New Roman', Times, serif;
+    color: rgb(231, 91, 161);
 }
 
 body{
-    background-color: rgb(253, 251, 228);
+    background-color: rgb(255, 255, 255);
+}
+
+p{
+    font-size: 30px;
+    color: rosybrown;
+}
+
+h3{
+    font-size: 25;
+    color: rgb(233, 16, 160);
 }
